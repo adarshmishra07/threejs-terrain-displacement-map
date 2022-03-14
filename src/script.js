@@ -7,7 +7,7 @@ import * as dat from "dat.gui";
 
 const loader = new THREE.TextureLoader();
 
-const texture = loader.load("/texture/texture.jpeg");
+const texture = loader.load("/texture/texture.jpg");
 const height = loader.load("/height.png");
 const alpha = loader.load("/alpha.jpeg");
 /**
