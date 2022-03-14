@@ -1,4 +1,4 @@
-# Three.js - Template - Simple
+# Three.js - Terrain - Displacement Map
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
